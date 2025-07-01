@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
+<p align="center">🎓 A Computer Science Student at Ain Shams University (ASU)</p>
 
-<!--
-**Yomna-Mahsoob/Yomna-Mahsoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩🏻‍💻 About Me
+- 💻 Passionate about building smart tech using **Machine Learning**, **Python**, and **Data Analysis**
+- 🧠 Currently learning **Cybersecurity fundementals** and **Web Development**
+- 🎯 Interested in solving real-world problems using code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 📌 Projects Highlights
+
+- 🔬 [**Heart Disease Prediction**](https://github.com/Yomna-Mahsoob/Heart-Disease-Prediction):  
+  Predicts likelihood of heart disease using ML models (Logistic Regression, SVM, XGBoost)
+
+- 🛫 [**Airline Passenger Satisfaction**](https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication):  
+  End-to-end data science pipeline with GUI (Tkinter) — EDA, feature engineering, ML model
+
+- 💅 [**Skincare Products Website**](https://github.com/Yomna-Mahsoob/skincare):  
+  Front-end website using HTML, CSS, Bootstrap showcasing skincare products
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=flat&logo=gnu-bash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+---
+
+### 📫 Contact Me
+- 📍 Cairo, Egypt  
+- 💌 Email: **yomnamahsoob45@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+### 🌟 GitHub Stats
+![Yomna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yomna-Mahsoob&show_icons=true&theme=tokyonight)
+
