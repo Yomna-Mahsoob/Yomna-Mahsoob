@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yomna El‑kobesy</h1>
-<p align="center">🎓 A Computer Science Student at Ain Shams University (ASU)</p>
+<p align="center"> A Computer Science Student at Ain Shams University </p>
 
 ---
 
