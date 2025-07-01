@@ -11,18 +11,6 @@
 
 ---
 
-### 📌 Projects Highlights
-
-- 🔬 [**Heart Disease Prediction**](https://github.com/Yomna-Mahsoob/Heart-Disease-Prediction):  
-  Predicts likelihood of heart disease using ML models (Logistic Regression, SVM, XGBoost)
-
-- 🛫 [**Airline Passenger Satisfaction**](https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication):  
-  End-to-end data science pipeline with GUI (Tkinter) — EDA, feature engineering, ML model
-
-- 💅 [**Skincare Products Website**](https://github.com/Yomna-Mahsoob/skincare):  
-  Front-end website using HTML, CSS, Bootstrap showcasing skincare products
-
----
 
 ### 🛠️ Tech Stack
 
