@@ -27,7 +27,6 @@
 ---
 
 ### 📫 Contact Me
-- 📍 Cairo, Egypt  
 - 💌 Email: **yomnamahsoob45@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/Yomna-Mahsoob](https://www.linkedin.com/in/yomna-el-kobesy-30186a317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
